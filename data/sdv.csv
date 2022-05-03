@@ -1,0 +1,194 @@
+id,Country,2021 SDG Index Score,2021 SDG Index Rank,Percentage missing values,Spillover Score (0-100),Regional Score (0-100),Regions used for the SDR,Population in 2020 
+AFG,Afghanistan,53.9,137,0.00,99.3,71.4,E. Europe & C. Asia,38928341 
+AGO,Angola,50.3,154,0.00,97.0,51.9,Africa,32866268 
+ALB,Albania,71.0,64,0.00,94.3,71.4,E. Europe & C. Asia,2877800 
+AND,Andorra,,,0.00,,71.4,E. Europe & C. Asia,77265 
+ARE,United Arab Emirates,70.2,71,0.00,38.8,67.1,MENA,9890400 
+ARG,Argentina,72.8,52,0.00,94.5,68.6,LAC,45195777 
+ARM,Armenia,71.8,58,0.00,96.7,71.4,E. Europe & C. Asia,2963234 
+ATG,Antigua and Barbuda,,,0.00,,68.6,LAC,97928 
+AUS,Australia,75.6,35,0.00,63.9,77.2,OECD,25499881 
+AUT,Austria,82.1,6,0.00,59.5,77.2,OECD,9006400 
+AZE,Azerbaijan,72.4,55,0.00,97.6,71.4,E. Europe & C. Asia,10139175 
+BDI,Burundi,51.8,147,0.00,99.8,51.9,Africa,11890781 
+BEL,Belgium,82.2,5,0.00,62.0,77.2,OECD,11589616 
+BEN,Benin,49.9,155,0.00,98.8,51.9,Africa,12123198 
+BFA,Burkina Faso,53.5,139,0.00,99.4,51.9,Africa,20903278 
+BGD,Bangladesh,63.5,109,0.00,99.3,65.7,East & South Asia,164689383 
+BGR,Bulgaria,73.8,45,0.00,86.9,71.4,E. Europe & C. Asia,6948445 
+BHR,Bahrain,66.1,100,0.00,83.9,67.1,MENA,1701583 
+BHS,"Bahamas, The",,,0.00,,68.6,LAC,393248 
+BIH,Bosnia and Herzegovina,73.7,47,0.00,95.8,71.4,E. Europe & C. Asia,3280815 
+BLR,Belarus,78.8,24,0.00,96.7,71.4,E. Europe & C. Asia,9449321 
+BLZ,Belize,64.4,104,0.00,93.5,68.6,LAC,397621 
+BOL,Bolivia,67.6,90,0.00,97.9,68.6,LAC,11673029 
+BRA,Brazil,71.3,61,0.00,97.6,68.6,LAC,212559409 
+BRB,Barbados,68.4,83,0.00,78.8,68.6,LAC,287371 
+BRN,Brunei Darussalam,68.3,84,0.00,70.9,65.7,East & South Asia,437483 
+BTN,Bhutan,70.0,75,0.00,93.9,65.7,East & South Asia,771612 
+BWA,Botswana,61.9,115,0.00,80.6,51.9,Africa,2351625 
+CAF,Central African Republic,38.3,165,0.00,99.6,51.9,Africa,4829764 
+CAN,Canada,79.2,21,0.00,64.1,77.2,OECD,37742157 
+CHE,Switzerland,80.1,16,0.00,41.7,77.2,OECD,8654618 
+CHL,Chile,77.1,30,0.00,93.2,77.2,OECD,19116209 
+CHN,China,72.1,57,0.00,94.6,65.7,East & South Asia,1439323774 
+CIV,Cote d'Ivoire,57.6,131,0.00,99.5,51.9,Africa,26378275 
+CMR,Cameroon,55.3,134,0.00,99.6,51.9,Africa,26545864 
+COD,"Congo, Dem. Rep.",49.3,158,0.00,99.4,51.9,Africa,89561404 
+COG,"Congo, Rep.",52.9,144,0.00,97.7,51.9,Africa,5518092 
+COL,Colombia,70.6,68,0.00,95.2,77.2,OECD,50882884 
+COM,Comoros,,,0.00,,51.9,Africa,869595 
+CPV,Cabo Verde,68.1,86,0.00,95.4,51.9,Africa,555988 
+CRI,Costa Rica,73.6,50,0.00,83.3,68.6,LAC,5094114 
+CUB,Cuba,73.7,49,0.00,97.1,68.6,LAC,11326616 
+CYP,Cyprus,74.9,40,0.00,63.8,71.4,E. Europe & C. Asia,1207361 
+CZE,Czech Republic,81.4,12,0.00,67.8,77.2,OECD,10708982 
+DEU,Germany,82.5,4,0.00,60.4,77.2,OECD,83783945 
+DJI,Djibouti,53.8,138,0.00,98.2,51.9,Africa,988002 
+DMA,Dominica,,,0.00,,68.6,LAC,71991 
+DNK,Denmark,84.9,3,0.00,60.5,77.2,OECD,5792203 
+DOM,Dominican Republic,70.8,67,0.00,95.6,68.6,LAC,10847904 
+DZA,Algeria,70.9,66,0.00,97.5,67.1,MENA,43851043 
+ECU,Ecuador,72.5,53,0.00,97.1,68.6,LAC,17643060 
+EGY,"Egypt, Arab Rep.",68.6,82,0.00,98.7,67.1,MENA,102334403 
+ERI,Eritrea,,,0.00,,51.9,Africa,3546427 
+ESP,Spain,79.5,20,0.00,64.8,77.2,OECD,46754783 
+EST,Estonia,81.6,10,0.00,72.1,77.2,OECD,1326539 
+ETH,Ethiopia,54.5,136,0.00,99.7,51.9,Africa,114963583 
+FIN,Finland,85.9,1,0.00,69.8,77.2,OECD,5540718 
+FJI,Fiji,71.2,62,0.00,93.2,50.1,Oceania,896444 
+FRA,France,81.7,8,0.00,55.9,77.2,OECD,65273512 
+FSM,"Micronesia, Fed. Sts.",,,0.00,,50.1,Oceania,663948 
+GAB,Gabon,62.8,111,0.00,93.0,51.9,Africa,2225728 
+GBR,United Kingdom,80.0,17,0.00,54.1,77.2,OECD,67886004 
+GEO,Georgia,72.2,56,0.00,90.7,71.4,E. Europe & C. Asia,3989175 
+GHA,Ghana,62.5,114,0.00,97.4,51.9,Africa,31072945 
+GIN,Guinea,51.0,153,0.00,99.5,51.9,Africa,13132792 
+GMB,"Gambia, The",59.3,123,0.00,97.9,51.9,Africa,2416664 
+GNB,Guinea-Bissau,,,0.00,,51.9,Africa,1967998 
+GNQ,Equatorial Guinea,,,0.00,,51.9,Africa,1402985 
+GRC,Greece,75.4,37,0.00,72.3,77.2,OECD,10423056 
+GRD,Grenada,,,0.00,,68.6,LAC,112519 
+GTM,Guatemala,59.9,121,0.00,87.3,68.6,LAC,17915567 
+GUY,Guyana,57.9,128,0.00,30.0,68.6,LAC,786559 
+HND,Honduras,62.8,112,0.00,94.8,68.6,LAC,9904608 
+HRV,Croatia,80.4,14,0.00,84.8,71.4,E. Europe & C. Asia,4105268 
+HTI,Haiti,51.4,150,0.00,99.6,68.6,LAC,11402533 
+HUN,Hungary,78.8,25,0.00,80.0,77.2,OECD,9660350 
+IDN,Indonesia,66.3,97,0.00,96.9,65.7,East & South Asia,273523621 
+IND,India,60.1,120,0.00,98.9,65.7,East & South Asia,1380004385 
+IRL,Ireland,81.0,13,0.00,60.0,77.2,OECD,4937796 
+IRN,"Iran, Islamic Rep.",70.0,74,0.00,95.9,67.1,MENA,83992953 
+IRQ,Iraq,63.8,105,0.00,98.3,67.1,MENA,40222503 
+ISL,Iceland,78.2,29,0.00,60.3,77.2,OECD,341250 
+ISR,Israel,75.0,38,0.00,69.6,77.2,OECD,8655541 
+ITA,Italy,78.8,26,0.00,71.2,77.2,OECD,60461828 
+JAM,Jamaica,69.0,81,0.00,93.6,68.6,LAC,2961161 
+JOR,Jordan,70.1,72,0.00,90.4,67.1,MENA,10203140 
+JPN,Japan,79.8,18,0.00,68.8,77.2,OECD,126476458 
+KAZ,Kazakhstan,71.6,59,0.00,94.6,71.4,E. Europe & C. Asia,18776707 
+KEN,Kenya,60.6,118,0.00,94.9,51.9,Africa,53771300 
+KGZ,Kyrgyz Republic,74.0,44,0.00,96.0,71.4,E. Europe & C. Asia,6524191 
+KHM,Cambodia,64.5,102,0.00,98.8,65.7,East & South Asia,16718971 
+KIR,Kiribati,,,0.00,,50.1,Oceania,119446 
+KNA,St. Kitts and Nevis,,,0.00,,68.6,LAC,53192 
+KOR,"Korea, Rep.",78.6,28,0.00,71.6,77.2,OECD,51269183 
+KWT,Kuwait,62.5,113,0.00,43.3,67.1,MENA,4270563 
+LAO,Lao PDR,63.0,110,0.00,99.2,65.7,East & South Asia,7275556 
+LBN,Lebanon,66.8,93,0.00,81.2,67.1,MENA,6825442 
+LBR,Liberia,48.6,161,0.00,98.0,51.9,Africa,5057677 
+LBY,Libya,,,0.00,,67.1,MENA,6871287 
+LCA,St. Lucia,,,0.00,,68.6,LAC,183629 
+LIE,Liechtenstein,,,0.00,,71.4,E. Europe & C. Asia,38137 
+LKA,Sri Lanka,68.1,87,0.00,96.4,65.7,East & South Asia,21413250 
+LSO,Lesotho,54.6,135,0.00,95.2,51.9,Africa,2142252 
+LTU,Lithuania,76.7,31,0.00,68.4,77.2,OECD,2722291 
+LUX,Luxembourg,74.2,42,0.00,31.0,77.2,OECD,625976 
+LVA,Latvia,79.2,22,0.00,72.1,77.2,OECD,1886202 
+MAR,Morocco,70.5,69,0.00,98.3,67.1,MENA,36910558 
+MCO,Monaco,,,0.00,,71.4,E. Europe & C. Asia,39244 
+MDA,Moldova,73.7,48,0.00,99.7,71.4,E. Europe & C. Asia,4033963 
+MDG,Madagascar,49.0,159,0.00,99.5,51.9,Africa,27691019 
+MDV,Maldives,69.3,79,0.00,88.3,65.7,East & South Asia,540542 
+MEX,Mexico,69.1,80,0.00,95.5,77.2,OECD,128932753 
+MHL,Marshall Islands,,,0.00,,50.1,Oceania,59194 
+MKD,North Macedonia,72.5,54,0.00,93.9,71.4,E. Europe & C. Asia,2083380 
+MLI,Mali,52.2,146,0.00,99.6,51.9,Africa,20250834 
+MLT,Malta,75.7,33,0.00,61.4,71.4,E. Europe & C. Asia,441539 
+MMR,Myanmar,64.9,101,0.00,100.0,65.7,East & South Asia,54409794 
+MNE,Montenegro,68.2,85,0.00,69.3,71.4,E. Europe & C. Asia,628062 
+MNG,Mongolia,63.8,106,0.00,94.9,65.7,East & South Asia,3278292 
+MOZ,Mozambique,51.1,152,0.00,99.5,51.9,Africa,31255435 
+MRT,Mauritania,55.5,133,0.00,97.9,51.9,Africa,4649660 
+MUS,Mauritius,66.7,95,0.00,48.4,51.9,Africa,1271767 
+MWI,Malawi,51.4,149,0.00,99.1,51.9,Africa,19129955 
+MYS,Malaysia,70.9,65,0.00,77.8,65.7,East & South Asia,32365998 
+NAM,Namibia,61.8,116,0.00,87.5,51.9,Africa,2540916 
+NER,Niger,49.5,156,0.00,99.3,51.9,Africa,24206636 
+NGA,Nigeria,48.9,160,0.00,98.9,51.9,Africa,206139587 
+NIC,Nicaragua,66.3,99,0.00,98.1,68.6,LAC,6624554 
+NLD,Netherlands,81.6,11,0.00,47.0,77.2,OECD,17134873 
+NOR,Norway,82.0,7,0.00,58.7,77.2,OECD,5421242 
+NPL,Nepal,66.5,96,0.00,99.2,65.7,East & South Asia,29136808 
+NRU,Nauru,,,0.00,,50.1,Oceania,10834 
+NZL,New Zealand,79.1,23,0.00,70.8,77.2,OECD,4822233 
+OMN,Oman,70.1,73,0.00,81.9,67.1,MENA,5106622 
+PAK,Pakistan,57.7,129,0.00,99.7,65.7,East & South Asia,220892331 
+PAN,Panama,68.0,88,0.00,76.3,68.6,LAC,4314768 
+PER,Peru,71.1,63,0.00,96.9,68.6,LAC,32971846 
+PHL,Philippines,64.5,103,0.00,97.9,65.7,East & South Asia,109581085 
+PLW,Palau,,,0.00,,50.1,Oceania,18092 
+PNG,Papua New Guinea,51.3,151,0.00,98.2,50.1,Oceania,8947027 
+POL,Poland,80.2,15,0.00,83.6,77.2,OECD,37846605 
+PRK,"Korea, Dem. Rep.",,,0.00,,65.7,East & South Asia,25778815 
+PRT,Portugal,78.6,27,0.00,69.9,77.2,OECD,10196707 
+PRY,Paraguay,66.9,92,0.00,93.7,68.6,LAC,7132530 
+QAT,Qatar,66.7,94,0.00,73.0,67.1,MENA,2881060 
+ROU,Romania,75.0,39,0.00,84.0,71.4,E. Europe & C. Asia,19237682 
+RUS,Russian Federation,73.8,46,0.00,80.5,71.4,E. Europe & C. Asia,145934460 
+RWA,Rwanda,57.6,130,0.00,98.9,51.9,Africa,12952209 
+SAU,Saudi Arabia,66.3,98,0.00,71.1,67.1,MENA,34813867 
+SDN,Sudan,49.5,157,0.00,100.0,51.9,Africa,43849269 
+SEN,Senegal,58.4,126,0.00,99.1,51.9,Africa,16743930 
+SGP,Singapore,69.9,76,0.00,20.6,65.7,East & South Asia,5850343 
+SLB,Solomon Islands,,,0.00,,50.1,Oceania,686878 
+SLE,Sierra Leone,51.7,148,0.00,99.5,51.9,Africa,7976985 
+SLV,El Salvador,67.9,89,0.00,90.8,68.6,LAC,6486201 
+SMR,San Marino,,,0.00,,71.4,E. Europe & C. Asia,33938 
+SOM,Somalia,45.6,162,0.00,100.0,51.9,Africa,15893219 
+SRB,Serbia,75.6,34,0.00,82.6,71.4,E. Europe & C. Asia,8737370 
+SSD,South Sudan,38.9,164,0.00,99.9,51.9,Africa,11193729 
+STP,Sao Tome and Principe,58.8,124,0.00,95.6,51.9,Africa,219161 
+SUR,Suriname,67.0,91,0.00,90.6,68.6,LAC,586634 
+SVK,Slovak Republic,79.6,19,0.00,75.0,77.2,OECD,5459643 
+SVN,Slovenia,81.6,9,0.00,60.8,77.2,OECD,2078932 
+SWE,Sweden,85.6,2,0.00,67.1,77.2,OECD,10099270 
+SWZ,Eswatini,53.3,142,0.00,84.8,51.9,Africa,1160164 
+SYC,Seychelles,,,0.00,,51.9,Africa,98340 
+SYR,Syrian Arab Republic,58.0,127,0.00,98.3,67.1,MENA,17500657 
+TCD,Chad,40.9,163,0.00,99.8,51.9,Africa,16425859 
+TGO,Togo,53.2,143,0.00,99.1,51.9,Africa,8278737 
+THA,Thailand,74.2,43,0.00,88.7,65.7,East & South Asia,69799978 
+TJK,Tajikistan,69.8,78,0.00,97.5,71.4,E. Europe & C. Asia,9537642 
+TKM,Turkmenistan,61.1,117,0.00,90.5,71.4,E. Europe & C. Asia,6031187 
+TLS,Timor-Leste,,,0.00,,65.7,East & South Asia,1318442 
+TON,Tonga,,,0.00,,50.1,Oceania,105697 
+TTO,Trinidad and Tobago,63.5,108,0.00,88.1,68.6,LAC,1399491 
+TUN,Tunisia,71.4,60,0.00,94.2,67.1,MENA,11818618 
+TUR,Turkey,70.4,70,0.00,93.7,77.2,OECD,84339067 
+TUV,Tuvalu,,,0.00,,50.1,Oceania,11792 
+TZA,Tanzania,56.4,132,0.00,98.5,51.9,Africa,59734213 
+UGA,Uganda,53.5,140,0.00,99.2,51.9,Africa,45741000 
+UKR,Ukraine,75.5,36,0.00,94.0,71.4,E. Europe & C. Asia,43733759 
+URY,Uruguay,74.5,41,0.00,91.0,68.6,LAC,3473727 
+USA,United States,76.0,32,0.00,62.1,77.2,OECD,331002647 
+UZB,Uzbekistan,69.8,77,0.00,98.1,71.4,E. Europe & C. Asia,33469199 
+VCT,St. Vincent and the Grenadines,,,0.00,,68.6,LAC,110947 
+VEN,"Venezuela, RB",59.3,122,0.00,96.4,68.6,LAC,28435943 
+VNM,Vietnam,72.8,51,0.00,96.4,65.7,East & South Asia,97338583 
+VUT,Vanuatu,60.5,119,0.00,94.5,50.1,Oceania,307150 
+WSM,Samoa,,,0.00,,50.1,Oceania,198410 
+YEM,"Yemen, Rep.",52.9,145,0.00,99.0,67.1,MENA,29825968 
+ZAF,South Africa,63.7,107,0.00,88.6,51.9,Africa,59308690 
+ZMB,Zambia,53.4,141,0.00,98.3,51.9,Africa,18383956 
+ZWE,Zimbabwe,58.7,125,0.00,98.1,51.9,Africa,14862927 

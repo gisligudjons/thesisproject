@@ -1,0 +1,27 @@
+[
+    {
+      "id": "Natural Capital",
+      "x": 1,
+      "y": 65.2
+    },
+    {
+      "id": "Resource Intensity",
+      "x": 2,
+      "y": 43.0
+    },
+    {
+      "id": "Intellectual Capital",
+      "x": 3,
+      "y": 62.5
+    },
+    {
+      "id": "Social Capital",
+      "x": 4,
+      "y": 64.1
+    },
+    {
+        "id": "Governance",
+        "x": 5,
+        "y": 64.1
+      }
+]

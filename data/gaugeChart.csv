@@ -1,0 +1,181 @@
+Country,Score,countryCode
+Afghanistan,39.3,AFG
+Albania,49.9,ALB
+Algeria,39.6,DZA
+Angola,40.9,AGO
+Argentina,48.6,ARG
+Armenia,47.4,ARM
+Australia,49.3,AUS
+Austria,56.6,AUT
+Azerbaijan,40.7,AZE
+Bahamas,37.7,BHS
+Bahrain,37.2,BHR
+Bangladesh,42.3,BGD
+Belarus,48.5,BLR
+Belgium,53.0,BEL
+Belize,47.6,BLZ
+Benin,39.2,BEN
+Bhutan,49.4,BTN
+Bolivia,49.3,BOL
+Bosnia and Herzegovina,47.0,BIH
+Botswana,42.9,BWA
+Brazil,48.8,BRA
+Brunei,46.7,BRN
+Bulgaria,49.6,BGR
+Burkina Faso,41.5,BFA
+Myanmar,44.6,MMR
+Burundi,36.0,BDI
+Cambodia,43.0,KHM
+Cameroon,44.9,CMR
+Canada,50.6,CAN
+Central African Republic,37.5,CAF
+Chad,36.6,TCD
+Chile,50.4,CHL
+China,51.4,CHN
+Colombia,48.7,COL
+Comoros,38.1,COM
+Costa Rica,52.4,CRI
+Cote d'Ivoire,45.2,CIV
+Croatia,55.1,HRV
+Cuba,43.4,CUB
+Cyprus,47.5,CYP
+Czech Republic,52.9,CZE
+Democratic Republic of Congo,41.8,COD
+Denmark,60.2,DNK
+Djibouti,37.6,DJI
+Dominica,45.2,DMA
+Dominican Republic,44.0,DOM
+Ecuador,49.1,ECU
+Egypt,41.0,EGY
+El Salvador,45.1,SLV
+Equatorial Guinea,41.4,GNQ
+Eritrea,34.5,ERI
+Estonia,56.1,EST
+Eswatini,41.5,SWZ
+Ethiopia,43.4,ETH
+Fiji,46.9,FJI
+Finland,60.7,FIN
+France,56.8,FRA
+Gabon,42.9,GAB
+Gambia,38.1,GMB
+Georgia,48.5,GEO
+Germany,56.6,DEU
+Ghana,46.9,GHA
+Greece,49.6,GRC
+Grenada,42.6,GRD
+Guatemala,39.1,GTM
+Guinea,41.6,GIN
+Guinea-Bissau,38.9,GNB
+Guyana,44.9,GUY
+Haiti,36.7,HTI
+Honduras,40.0,HND
+Hungary,50.8,HUN
+Iceland,59.8,ISL
+India,40.9,IND
+Indonesia,46.5,IDN
+Iran,42.5,IRN
+Ireland,57.6,IRL
+Israel,48.2,ISR
+Italy,51.7,ITA
+Jamaica,41.5,JAM
+Japan,55.3,JPN
+Jordan,41.0,JOR
+Kazakhstan,45.8,KAZ
+Kenya,44.8,KEN
+Kiribati,44.3,KIR
+Kuwait,40.2,KWT
+Kyrgistan,46.4,KGZ
+Laos,43.4,LAO
+Latvia,53.5,LVA
+Lebanon,35.7,LBN
+Lesotho,39.2,LSO
+Liberia,37.1,LBR
+Libya,35.4,LBY
+Liechtenstein,56.0,LIE
+Lithuania,53.0,LTU
+Luxembourg,53.9,LUX
+Madagascar,38.8,MDG
+Malawi,40.9,MWI
+Malaysia,47.3,MYS
+Maldives,45.1,MDV
+Mali,39.0,MLI
+Malta,51.7,MLT
+Mauritania,37.8,MRT
+Mauritius,49.6,MUS
+Mexico,44.9,MEX
+Micronesia,42.1,FSM
+Moldova,46.0,MDA
+Mongolia,41.6,MNG
+Montenegro,46.8,MNE
+Morocco,43.1,MAR
+Mozambique,36.8,MOZ
+Namibia,43.1,NAM
+Nepal,45.5,NPL
+Netherlands,53.9,NLD
+New Zealand,54.9,NZL
+Nicaragua,42.8,NIC
+Niger,40.6,NER
+Nigeria,39.6,NGA
+North Macedonia,47.3,MKD
+Norway,59.8,NOR
+Oman,42.1,OMN
+Pakistan,36.7,PAK
+Panama,48.7,PAN
+Papua New Guinea,41.2,PNG
+Paraguay,49.5,PRY
+Peru,50.3,PER
+Philippines,42.0,PHL
+Poland,51.2,POL
+Portugal,54.8,PRT
+Qatar,39.3,QAT
+Republic of Congo,40.0,COG
+Romania,52.3,ROU
+Russia,49.2,RUS
+Rwanda,40.3,RWA
+Samoa,46.7,WSM
+Sao Tome and Principe,42.4,STP
+Saudi Arabia,42.3,SAU
+Senegal,42.7,SEN
+Serbia,49.7,SRB
+Seychelles,41.7,SYC
+Sierra Leone,43.6,SLE
+Singapore,49.3,SGP
+Slovakia,53.1,SVK
+Slovenia,54.3,SVN
+Solomon Islands,47.4,SLB
+Somalia,32.7,SOM
+South Africa,39.3,ZAF
+South Korea,53.9,KOR
+South Sudan,35.0,SSD
+Spain,52.7,ESP
+Sri Lanka,48.1,LKA
+St. Kitts and Nevis,41.1,KNA
+Sudan,36.3,SDN
+Suriname,45.3,SUR
+Sweden,61.2,SWE
+Switzerland,60.4,CHE
+Syria,35.4,SYR
+Tajikistan,43.1,TJK
+Tanzania,41.7,TZA
+Thailand,45.0,THA
+Timor-Leste,47.0,TLS
+Togo,40.0,TGO
+Tonga,45.9,TON
+Trinidad and Tobago,38.6,TTO
+Tunisia,41.4,TUN
+Turkey,45.8,TUR
+Turkmenistan,39.7,TKM
+Uganda,37.6,UGA
+Ukraine,47.3,UKR
+United Arab Emirates,43.9,ARE
+United Kingdom,54.6,GBR
+Uruguay,51.3,URY
+USA,52.0,USA
+Uzbekistan,45.2,UZB
+Vanuatu,43.2,VUT
+Venezuela,47.6,VEN
+Vietnam,42.2,VNM
+West Bank and Gaza,37.6,
+Yemen,36.2,YEM
+Zambia,38.7,ZMB
+Zimbabwe,38.6,ZWE

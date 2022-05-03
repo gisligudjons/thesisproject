@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "billboard.js": "^3.4.1",
+    "d3": "^7.4.2",
+    "d3plus": "^2.0.1",
+    "degit": "^2.8.4"
+  }
+}

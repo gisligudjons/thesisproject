@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+$font-family-sans-serif: "Lato", sans-serif;
+$color-green: #b9f442;
+$color-green-dark: #0c6602;
+$color-pink: #fb5858;
+
+body {
+  background-color: $color-green;
+  color: $color-green-dark;
+  font-family: $font-family-sans-serif;
+  font-size: 1.2em;
+  height: 1100px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+h2 {
+  margin-top: 0;
+}
+
+#layer_1 {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  max-width: 480px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 50%;
+}
+
+path {
+  fill: none;
+  stroke: $color-pink;
+  stroke-dasharray: 4709.57;
+  stroke-dashoffset: 4709.57;
+  stroke-width: 6;
+}
