@@ -13,13 +13,11 @@ All around the world, countries are witnessing the different effects of climate 
 ## Link to hosted project
 gisligudjons.github.io/thesisproject
 
-## Keynote presentation
 
-[![Keynote presentation](preview.png)](https://vimeo.com/545201647#t=1515s)
 
 ## Author
 
-Gisli Gudjonsson
+Gísli Guðjónsson (Gisli Gudjonsson)
 
 ## Acknowledgements
 
