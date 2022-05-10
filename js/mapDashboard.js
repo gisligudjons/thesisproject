@@ -148,10 +148,12 @@
                 Highcharts.chart('gauge-chart', {
                     chart: {
                         type: 'solidgauge',
-                        height: 300
+                        height: 350
                     },
 
-                    title: null,
+                    title: {
+                        text: "ESCI Score",
+                    },
 
                     pane: {
                         center: ['50%', '85%'],
@@ -186,10 +188,12 @@
                         },
                         min: 0,
                         max: 100,
-                        title: {
-                            text: 'Score'
-                        }
+                        
                     },
+
+                    credits: {
+                        enabled: false
+                      },
 
                     plotOptions: {
                         solidgauge: {
@@ -209,6 +213,7 @@
                         name: 'Score',
                         data: [gaugeChartToPresentData],
                         dataLabels: {
+                            enabled: true,
                             format:
                                 '<div style="text-align:center">' +
                                 '<span style="font-size:25px">{y}</span><br/>' +
@@ -245,6 +250,7 @@
                     },
                     yAxis: {
                         min: 0,
+                        max: 100,
                         title: {
                             text: 'Index Score'
                         }
@@ -260,15 +266,29 @@
                     plotOptions: {
                         column: {
                             pointPadding: 0.2,
-                            borderWidth: 0
+                            borderWidth: 0,
+                            colorByPoint: true
                         }
                     },
+                    colors: [
+                        '#f2ae1c',
+                        '#f8f7f4',
+                        '#8c3839',
+                        '#050a30',
+                        '#dc661f'
+                    ],
                     series: [{
+                        showInLegend: false,     
                         name: points[0]['name'],
-                        data: columnChartToPresentData
+                        data: columnChartToPresentData,
+                        borderWidth: 1,
+                        borderColor: 'black'
 
                     },
-                    ]
+                    ],
+                    credits: {
+                        enabled: false
+                    },
                 });
 
                 Highcharts.chart('radar-chart', {
@@ -278,13 +298,14 @@
                         height: 300
                     },
 
-                    title: {
-                        text: 'Highcharts Polar Chart'
+                    credits: {
+                        enabled: false
                     },
 
-                    subtitle: {
-                        text: 'Also known as Radar Chart'
+                    title: {
+                        text: 'SDG Goal Score'
                     },
+
 
                     pane: {
                         startAngle: 0,
@@ -296,7 +317,7 @@
                         min: 1,
                         max: 17,
                         labels: {
-                            format: 'Goal {value}'
+                            format: 'SDG {value}'
                         }
                     },
 
@@ -368,6 +389,10 @@
                         data: lineChartToPresentData
                     },],
 
+                    credits: {
+                        enabled: false
+                    },
+
                     responsive: {
                         rules: [{
                             condition: {
@@ -403,7 +428,7 @@
         },
 
         title: {
-            text: 'SDG and ESG competiveness performance by country'
+            text: 'Sustainable Development Dashboard'
         },
 
         subtitle: {
@@ -426,6 +451,10 @@
 
         tooltip: {
             footerFormat: '<span style="font-size: 10px">(Click for details)</span>'
+        },
+
+        credits: {
+            enabled: false
         },
 
         series: [{

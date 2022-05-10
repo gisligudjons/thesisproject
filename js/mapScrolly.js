@@ -63,11 +63,7 @@ var targetMaldives = {
              0,
              Math.PI * 2
          );
-         context.fillStyle = 'rgba(191, 145, 40, 1)';
-         context.strokeStyle = 'white';
-         context.lineWidth = 2 + 4 * (1 - t);
-         context.fill();
-         context.stroke();
+
 
          // update this image's data with data from the canvas
          this.data = context.getImageData(
@@ -230,17 +226,19 @@ var targetMaldives = {
          // Show Layers
          map.setLayoutProperty("sec-1", 'visibility', 'visible');
 
-     } else if (response.index == 1) {
+     } else if (response.index == 4) {
          changeLocationOnMap(targetTuvalu)
+        } else if (response.index == 5) {
+            changeLocationOnMap(targetTuvalu)
 
      } else if (response.index == 2) {
             changeLocationOnMap(targetMaldives)
+        } else if (response.index == 3) {
+            changeLocationOnMap(targetMaldives)
+    } else if (response.index == 1) {
+            changeLocationOnMap(source)
 
-         // Hide Layers
-        //  map.setLayoutProperty("sec-1", 'visibility', 'none');
-        //  map.setLayoutProperty("acc-layers-19", 'visibility', 'none');
 
-         // Show Layers
 
 
          // Hide Layers
