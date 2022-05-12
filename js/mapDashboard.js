@@ -152,7 +152,7 @@
                     },
 
                     title: {
-                        text: "ESCI Score",
+                        text: "GSCI Score",
                     },
 
                     pane: {
