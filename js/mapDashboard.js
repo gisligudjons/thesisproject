@@ -428,7 +428,8 @@
         },
 
         title: {
-            text: 'Sustainable Development Dashboard'
+            text: 'Sustainable Development Dashboard',
+            subtitle: "With population as a geographic characteristic"
         },
 
         subtitle: {
