@@ -21,7 +21,7 @@ Gísli Guðjónsson (Gisli Gudjonsson)
 
 ## Acknowledgements
 
-
+Acknowledgements go to all of the fantastic colleagues and professors at the program. Daniel Sauter and Richard The have been tremendous influences and a source of great help. My mother and father also deserve great acknowledgement, their help with the project is greatly appreciated.
 
 ## License
 
